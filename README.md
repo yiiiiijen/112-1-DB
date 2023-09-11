@@ -9,5 +9,5 @@
 
 課堂資料👾
 -------------
-[同儕DS]<br />
+[同儕DB](https://docs.google.com/spreadsheets/d/1Q7xZrNQcNulzj7rhAGlexjkjkXMrw-MnCfyo7CtSp_o/edit#gid=847386397)<br />
 [ChatGPT]()<br />
