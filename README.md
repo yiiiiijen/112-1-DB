@@ -1,13 +1,13 @@
-# 111-2-DS
-授課老師 : [蔡芸琤老師](https://github.com/pecu)<br />
+# 112-1-DSys
+Professor : [Pecu](https://github.com/pecu)
 
-自我介紹😉
+Self Introduction😉
 -------------
-姓名 : 王依仁<br />
-系級 : 科技系114級 <br />
-擅長 : 實作、手做<br />
+Name: Yi-Jen Wang <br />
+Major: 114, TAHRD, Department of Technology Application and Human Resource Development <br />
+Strengths: Practical skills, hands-on expertise <br />
 
-課堂資料👾
+Class Information👾
 -------------
-[同儕DB](https://docs.google.com/spreadsheets/d/1Q7xZrNQcNulzj7rhAGlexjkjkXMrw-MnCfyo7CtSp_o/edit#gid=847386397)<br />
-[ChatGPT]()<br />
+[Peer DSys](https://docs.google.com/spreadsheets/d/1Q7xZrNQcNulzj7rhAGlexjkjkXMrw-MnCfyo7CtSp_o/edit#gid=847386397)<br />
+
